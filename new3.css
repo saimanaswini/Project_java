@@ -1,0 +1,65 @@
+body
+{
+ margin:0;
+ padding:0;
+}
+section
+{
+ width:1300px;
+ height:1365px;
+ background:url(nitrrlog2.jpg);
+ background-size:cover;
+ position:relative;
+ overflow:hidden;
+ margin:10px;
+//margin-left:80px;
+ border:2px black solid;
+ padding:5px;
+}
+#overlay
+{
+position:absolute;
+margin-top:0px;
+top:0;
+left:0;
+width:100%;
+height:100%;
+background-color:rgba(193,193,193,0.8);
+}
+h1
+{
+	
+ background-color:rgba(2,2,2,0.4);
+ height:50px;	
+ margin-left:180px;
+ margin-right:10px;
+ color:white;
+ //text-decoration:underline;
+ font-size:35px;
+ margin-top:10px;
+ position:fixed;
+ border-radius:20px;
+padding:10px;
+}
+#para
+{
+ 
+ color:black;
+ 
+ 
+ font-size:20px;
+ margin-top:0px;
+}
+#para1
+{
+
+	
+	text-align:center;
+	font-family:verdana;
+	margin-top:100px;
+}
+#que
+{
+ margin-left:30%;
+ font-family:Bookman Old Style;
+}
